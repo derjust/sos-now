@@ -1,0 +1,8 @@
+<drawables>
+    <bitmap id="LauncherIcon30" filename="sos-30x30.png" />
+    <bitmap id="LauncherIcon40" filename="sos-40x40.png" />
+    <drawable-list id="RedBackground" background="Gfx.COLOR_RED">
+    </drawable-list>
+    <drawable-list id="WhiteBackground" background="Gfx.COLOR_WHITE">
+    </drawable-list>
+</drawables>
